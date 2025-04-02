@@ -4,7 +4,8 @@ This repository contains a machine learning-based approach to detecting diseases
 
 About Dataset:
 The data has different types of diseases for tomato leaves.
-Here goes the list:
+Here goes the list:  
+
 Tomato_mosaic_virus
 Target_Spot
 Bacterial_spot
