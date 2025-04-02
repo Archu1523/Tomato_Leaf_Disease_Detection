@@ -1,4 +1,4 @@
-#Tomato Leaf Disease Detection:
+# Tomato Leaf Disease Detection:
 
 This repository contains a machine learning-based approach to detecting diseases in tomato leaves. The project uses a convolutional neural network (CNN) to classify images of tomato leaves into healthy or diseased categories.
 
